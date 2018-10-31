@@ -92,6 +92,7 @@ function tab(){
 		$('.tab').removeClass('hidden')
 		$('h3').addClass('hidden')
 		$('h2').addClass('hidden')
+		$('h1').addClass('hidden')
 		$('audio').addClass('hidden')
 	}
 	else{
